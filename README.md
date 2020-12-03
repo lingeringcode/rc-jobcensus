@@ -1,6 +1,6 @@
 # Job Census
 
-Modified code from Ryan Heuser's [jobcensus](https://github.com/quadrismegistus/jobcensus) project for English Studies. FYI, I am still modoifying the code to be better suited to this discipline's needs, 
+Modified code from Ryan Heuser's [jobcensus](https://github.com/quadrismegistus/jobcensus) project for English Studies. FYI, I am still modifying the code to be better suited to this discipline's needs, 
 
 How many jobs are offered each year in Rhetoric and Composition? This "census" is meant to be an informal count of the jobs advertised each year by using the [Academic Jobs Wiki](https://academicjobs.wikia.org/) as its primary source.
 
